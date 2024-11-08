@@ -1,4 +1,5 @@
 #Project Title: 
+
 Titanic Survival Prediction
 Project Description
 The Titanic Survival Prediction project aims to analyze the historical data from the Titanic disaster to build a predictive model that determines the likelihood of survival based on various passenger features. This project leverages data analysis and machine learning techniques to extract meaningful insights from the dataset, which includes information about passengers such as age, gender, socio-economic status, and ticket class.
